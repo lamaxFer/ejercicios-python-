@@ -1,0 +1,1 @@
+Hola, una vez que el archivo esta abierto en modo lectura, puedes usar varios metodos para leer su contenido.

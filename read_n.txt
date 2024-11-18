@@ -1,0 +1,1 @@
+Con el metodo `read(n)`puedes utilizarlo dentro de un bucle while para leer un archivo en bloques de tamaño específico, lo que puede ser útil para archivos grandes. (Aunque acá no hay tantos caracteres).
